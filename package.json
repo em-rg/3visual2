@@ -1,0 +1,20 @@
+{
+  "name": "european-banks-visualization",
+  "version": "1.0.0",
+  "description": "D3.js visualization of European banks and sovereign debt",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -o"
+  },
+  "keywords": [
+    "d3js",
+    "visualization",
+    "banks",
+    "debt"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

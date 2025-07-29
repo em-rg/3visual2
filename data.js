@@ -1,0 +1,22 @@
+const banksData = [
+    {"Bank Name": "BNP Paribas", "Country": "France", "Sovereign Exposure (in billions)": 41, "Public Debt (% of GDP)": 82, "Bank Foundations (in billions)": 94},
+    {"Bank Name": "Crédit Agricole", "Country": "France", "Sovereign Exposure (in billions)": 37, "Public Debt (% of GDP)": 82, "Bank Foundations (in billions)": 91},
+    {"Bank Name": "Société Générale", "Country": "France", "Sovereign Exposure (in billions)": 21, "Public Debt (% of GDP)": 82, "Bank Foundations (in billions)": 57},
+    {"Bank Name": "Deutsche Bank", "Country": "Germany", "Sovereign Exposure (in billions)": 14, "Public Debt (% of GDP)": 83, "Bank Foundations (in billions)": 84},
+    {"Bank Name": "Commerzbank", "Country": "Germany", "Sovereign Exposure (in billions)": 13, "Public Debt (% of GDP)": 83, "Bank Foundations (in billions)": 45},
+    {"Bank Name": "UniCredit", "Country": "Italy", "Sovereign Exposure (in billions)": 49, "Public Debt (% of GDP)": 119, "Bank Foundations (in billions)": 63},
+    {"Bank Name": "Intesa Sanpaolo", "Country": "Italy", "Sovereign Exposure (in billions)": 29, "Public Debt (% of GDP)": 119, "Bank Foundations (in billions)": 47},
+    {"Bank Name": "Banco Santander", "Country": "Spain", "Sovereign Exposure (in billions)": 26, "Public Debt (% of GDP)": 60, "Bank Foundations (in billions)": 77},
+    {"Bank Name": "BBVA", "Country": "Spain", "Sovereign Exposure (in billions)": 21, "Public Debt (% of GDP)": 60, "Bank Foundations (in billions)": 60},
+    {"Bank Name": "ING", "Country": "Netherlands", "Sovereign Exposure (in billions)": 25, "Public Debt (% of GDP)": 62, "Bank Foundations (in billions)": 66},
+    {"Bank Name": "Rabobank", "Country": "Netherlands", "Sovereign Exposure (in billions)": 14, "Public Debt (% of GDP)": 62, "Bank Foundations (in billions)": 45},
+    {"Bank Name": "Barclays", "Country": "UK", "Sovereign Exposure (in billions)": 17, "Public Debt (% of GDP)": 76, "Bank Foundations (in billions)": 89},
+    {"Bank Name": "RBS", "Country": "UK", "Sovereign Exposure (in billions)": 14, "Public Debt (% of GDP)": 76, "Bank Foundations (in billions)": 82},
+    {"Bank Name": "Lloyds", "Country": "UK", "Sovereign Exposure (in billions)": 12, "Public Debt (% of GDP)": 76, "Bank Foundations (in billions)": 67},
+    {"Bank Name": "Dexia", "Country": "Belgium", "Sovereign Exposure (in billions)": 25, "Public Debt (% of GDP)": 96, "Bank Foundations (in billions)": 38},
+    {"Bank Name": "KBC", "Country": "Belgium", "Sovereign Exposure (in billions)": 13, "Public Debt (% of GDP)": 96, "Bank Foundations (in billions)": 34},
+    {"Bank Name": "Credit Suisse", "Country": "Switzerland", "Sovereign Exposure (in billions)": 10, "Public Debt (% of GDP)": 39, "Bank Foundations (in billions)": 65},
+    {"Bank Name": "UBS", "Country": "Switzerland", "Sovereign Exposure (in billions)": 9, "Public Debt (% of GDP)": 39, "Bank Foundations (in billions)": 70},
+    {"Bank Name": "Nordea", "Country": "Sweden", "Sovereign Exposure (in billions)": 8, "Public Debt (% of GDP)": 39, "Bank Foundations (in billions)": 50},
+    {"Bank Name": "Danske Bank", "Country": "Denmark", "Sovereign Exposure (in billions)": 7, "Public Debt (% of GDP)": 43, "Bank Foundations (in billions)": 40}
+];
